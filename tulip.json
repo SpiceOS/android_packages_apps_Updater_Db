@@ -1,0 +1,24 @@
+{
+	"response": [
+		{
+			"maintainer": "Julival Bittencourt (bittencourtjulival)",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 6 Pro",
+			"filename": "SpiceOS-3.0-STABLE-20210506-tulip-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/spiceos-tulip/files/SpiceOS-3.0-STABLE-20210506-tulip-OFFICIAL.zip/download",
+			"timestamp": 1620315228,
+			"md5": "af161eabaa68f8dae8da8037747ea640",
+			"size": 1127317504,
+			"version": "3.0",
+			"buildtype": "Stable",
+			"forum": "https://forum.xda-developers.com/t/rom-11-tulip-spiceos-3-0-stable-unofficial.4270701/",
+			"gapps": "already included in the rom",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/"
+		}
+	]
+}

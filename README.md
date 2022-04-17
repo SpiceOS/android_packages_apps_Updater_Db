@@ -13,8 +13,8 @@ In order for a device to be OTA compliant, there are a few things to know.
         "maintainer": "Name (nickname)",
         "oem": "OEM",
         "device": "Device Name",
-        "filename": "SpiceOS-v<version>-<buildtype>-<date>-<device codename>-<tag>.zip",
-        "download": "https://sourceforge.net/projects/spiceos/files/11/<device codename>/SpiceOS-v<version>-<buildtype>-<date>-<device codename>-<tag>.zip/download",
+        "filename": "SpiceOS-<version>-<buildtype>-<date>-<time>-<device codename>-<tag>.zip",
+        "download": "https://sourceforge.net/projects/spiceos/files/12.1/<device codename>/SpiceOS-<version>-<buildtype>-<date>-<time>-<device codename>-<tag>.zip/download",
         "timestamp": 0000000000,
         "md5": "abcdefg123456",
         "size": 123456789,
@@ -56,16 +56,23 @@ Required firmware: add if any else remove this line
 ## 3. How to ##
 For following below description, replace *codename* with your device codename.
 ### 3.1 Initial support ###
-After you contacted [althafvly on Telegram](https://telegram.me/althafvly) or [Anush Madathumkara on Telegram](https://telegram.me/Anush02198), and have the approval, follow the below steps.
+After you contacted [Anush Madathumkara on Telegram](https://tx.me/Anush02198), and have the approval, follow the below steps.
 1. Fork this repo to your own GitHub
-2. Create a copy jasmine_sprout.json for your *codename*.json and fill needed stuff
-3. Create a file named changelog_*codename*.txt and add your changelog in it.
-4. Submit a pull request to this repo (this way we validate that you understood the requirements and if all is good you'll be granted direct push access to this repo)
-
+2. Copy file **createjson.sh** to SpiceOS source folder and make it executable
+```
+chmod +x createjson.sh
+```
+3. Open the file in a text editor and make changes from where it states *#modify values below*, save the file then run the generation script with below command
+```
+./createjson.sh
+```
+4. codename.json (#ex mojito.json) will be created on SpiceOS source folder. Copy it to location where this repo was cloned.
+5. Create a file named changelog_codename.txt (#ex changelog_mojito.txt) based on changelog structure from point 1.2, and add your changelog in it.
+6. Submit a pull request to this repo (this way we validate that you understood the requirements and if all is good you'll be granted direct push access to this repo)
 ### 3.2 Update build ###
 1. Clone this repo locally
 ```
-git clone https://github.com/SpiceOS/android_packages_apps_Updater_Db.git -b 11
+git clone git@github.com:SpiceOS-Beta/android_packages_apps_Updater_Db.git  -b 12.1
 ```
 2. Change to the directory where you cloned this repo (android_packages_apps_Updater_Db) and fetch updates from repo.
 ```

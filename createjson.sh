@@ -3,11 +3,11 @@
 
 #modify values below
 #leave blank if not used
-maintainer="Name (nickname)" #ex: Mohammed Althaf (althafvly)
-oem="OEM" #ex: Motorola
-device="device codename" #ex: osprey
-devicename="name of device" #ex: Moto G 2015
-zip="SpiceOS zip" #ex: SpiceOS-2.0-BETA-20201117-osprey-OFFICIAL.zip
+maintainer="Name (nickname)" #ex: Anush Madathumkara (Anush02198)
+oem="OEM" #ex: Redmi
+device="device codename" #ex: mojito
+devicename="name of device" #ex: Redmi Note 10
+zip="SpiceOS zip" #ex: SpiceOS-6.0-BETA-20221003-161713-mojito-OFFICIAL
 buildtype="Beta" #choose from Testing/Alpha/Beta/Stable
 forum="https://link"
 gapps="https://link"
@@ -44,7 +44,7 @@ echo '{
         "oem": "'$oem'",
         "device": "'$devicename'",
         "filename": "'$zip_only'",
-        "download": "https://sourceforge.net/projects/spiceos/files/11/'$device'/'$zip_only'/download",
+        "download": "https://sourceforge.net/projects/spiceos/files/13/'$device'/'$zip_only'/download",
         "timestamp": '$timestamp',
         "md5": "'$md5'",
         "size": '$size',

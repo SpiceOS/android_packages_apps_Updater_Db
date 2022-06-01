@@ -1,24 +1,24 @@
 {
-  "response": [
-    {
-        "maintainer": "Anush MAdathumkara (Anush02198)",
-        "oem": "Redmi",
-        "device": "Redmi Note 10",
-        "filename": "SpiceOS-5.1-BETA-20220425-213942-mojito-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/spiceos/files/12.1/mojito/SpiceOS-5.1-BETA-20220425-213942-mojito-OFFICIAL.zip/download",
-        "timestamp": 1650902829,
-        "md5": "40e1ac55a9be5fb0980ba4b28ec2a5bf",
-        "size": 1083962837,
-        "version": "5.1",
-        "buildtype": "Beta",
-        "forum": "https://forum.xda-developers.com/t/rom-12-0-beta-official-spiceos-5-0-mojito-sunny.4404751/#post-86449367",
-        "gapps": "http://downloads.codefi.re/jdcteam/javelinanddart/gapps",
-        "firmware": "",
-        "modem": "",
-        "bootloader": "",
-        "recovery": "",
-        "paypal": "https://ko-fi.com/anushmadathumkara02198",
-        "telegram": "https://t.me/jarn10g"
-    }
-  ]
+	"response": [
+		{
+			"maintainer": "Anush MAdathumkara (Anush02198)",
+			"oem": "Redmi",
+			"device": "Redmi Note 10",
+			"filename": "5.2-BETA-20220601-145952-mojito-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/spiceos/files/12.1/mojito/5.2-BETA-20220601-145952-mojito-OFFICIAL.zip/download",
+			"timestamp": 1654075434,
+			"md5": "",
+			"size": ,
+			"version": "BETA",
+			"buildtype": "Beta",
+			"forum": "https://forum.xda-developers.com/t/rom-12-0-beta-official-spiceos-5-0-mojito-sunny.4404751/#post-86449367",
+			"gapps": "https://downloads.codefi.re/jdcteam/javelinanddart/gapps",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://ko-fi.com/anushmadathumkara02198",
+			"telegram": "https://t.me/jarn10g"
+		}
+	]
 }

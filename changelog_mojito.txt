@@ -25,3 +25,7 @@ Device maintainer: Anush Madathumkara (Anush02198)
 + sm6150-common: configs: Add interaction boosts
 + sm6150-common: configs: Set 1 second timeout for interaction boosts
 + sm6150-common: overlay: Drop display STATE_DOZE
+
+====  02 June, 2022  ====
+
++ Hotfix Build

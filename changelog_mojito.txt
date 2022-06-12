@@ -29,3 +29,10 @@ Device maintainer: Anush Madathumkara (Anush02198)
 ====  02 June, 2022  ====
 
 + Hotfix Build
+
+====  12 June, 2022  ====
+
++ Updated WCSF Kernel
++ sm6150-common: powerhint: Enable F2FS background GC
++ sm6150-common: powerhint: Use generic F2FS path provided by init
++ sm6150-common: sepolicy: Add F2FS sysfs permission

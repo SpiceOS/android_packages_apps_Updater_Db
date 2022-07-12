@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Jijin Raj (ghostrix)",
+      "oem": "Poco",
+      "device": "Poco X3 Pro",
+      "filename": "SpiceOS-5.4-STABLE-20220712-105701-vayu-OFFICIAL.zip",
+      "download": "https://sourceforge.net/projects/spiceos/files/12.1/vayu/SpiceOS-5.4-STABLE-20220712-105701-vayu-OFFICIAL.zip/download",
+      "timestamp": 1657603618,
+      "md5": "892b6dd3b93553755b95b61f57f6f876",
+      "size": 1205115334,
+      "version": "5.4",
+      "buildtype": "Stable",
+      "forum": "https://forum.xda-developers.com/t/rom-12-1-official-spiceos-5-3-vayu-bhima-aosp.4459277/",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "https://orangefox.download/device/vayu",
+      "paypal": "",
+      "telegram": "https://t.me/spiceosvayu"
+    }
+  ]
+}

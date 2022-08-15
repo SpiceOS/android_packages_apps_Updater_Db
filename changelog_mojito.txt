@@ -51,3 +51,10 @@ Device maintainer: Anush Madathumkara (Anush02198)
 + Re-implemented F2fsRecessModeEnable
 + Improved R/W performance.
 + Improved overall stability.
+
+====  15 August, 2022  ====
+
++ Updated WCSF Kernel
++ sm6150-common:Fix mi thermald and qtidataservices related denials 
++ sm6150-common: address some wifi denials 
++ sm6150-common:Import Dpps lib from stock

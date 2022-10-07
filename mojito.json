@@ -1,24 +1,24 @@
 {
-  "response": [
-    {
-        "maintainer": "Anush Madathumkara (Anush02198)",
-        "oem": "Redmi",
-        "device": "Redmi Note 10",
-        "filename": "SpiceOS-6.0-BETA-20221006-204625-mojito-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/spiceos/files/13/mojito/SpiceOS-6.0-BETA-20221006-204625-mojito-OFFICIAL.zip/download",
-        "timestamp": 1665068417,
-        "md5": "1ef8f143534cbcda1f91610946db6ef9",
-        "size": 1070958514,
-        "version": "6.0",
-        "buildtype": "Beta",
-        "forum": "https://forum.xda-developers.com/t/rom-13-official-spiceos-6-0-beta-mojito-sunny.4485309/",
-        "gapps": "https://link",
-        "firmware": "https://link",
-        "modem": "https://link",
-        "bootloader": "https://link",
-        "recovery": "https://link",
-        "paypal": "https://paypal.me/anush02198",
-        "telegram": "https://t.me/jarn10g"
-    }
-  ]
+	"response": [
+		{
+			"maintainer": "Anush Madathumkara (Anush02198)",
+			"oem": "Redmi",
+			"device": "Redmi Note 10",
+			"filename": "SpiceOS-6.1-BETA-20221007-195447-mojito-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/spiceos/files/13/mojito/SpiceOS-6.1-BETA-20221007-195447-mojito-OFFICIAL.zip/download",
+			"timestamp": 1665152510,
+			"md5": "58df0bb746e3a298c9627263ab4d0da7",
+			"size": 1070956668,
+			"version": "6.1",
+			"buildtype": "Beta",
+			"forum": "https://forum.xda-developers.com/t/rom-13-official-spiceos-6-0-beta-mojito-sunny.4485309/",
+			"gapps": "https://link",
+			"firmware": "https://link",
+			"modem": "https://link",
+			"bootloader": "https://link",
+			"recovery": "https://link",
+			"paypal": "https://paypal.me/anush02198",
+			"telegram": "https://t.me/jarn10g"
+		}
+	]
 }

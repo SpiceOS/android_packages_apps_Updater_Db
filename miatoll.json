@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+        "maintainer": "ARINDAM BHATTACHARJEE (CRUECY)",
+        "oem": "Xiaomi",
+        "device": "Xiaomi SM720G Devices",
+        "filename": "SpiceOS-6.1-BETA-20221009-104619-miatoll-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/spiceos/files/13/miatoll/SpiceOS-6.1-BETA-20221009-104619-miatoll-OFFICIAL.zip/download",
+        "timestamp": 1665312166,
+        "md5": "da13b83f138e7616c7faaf19c5ee7cfd",
+        "size": 1606598586,
+        "version": "6.1",
+        "buildtype": "Beta",
+        "forum": "https://forum.xda-developers.com/t/rom-official-android-13-spiceos-v6-1-beta-curtana-excalibur-gram-joyuese-miatoll.4491727/",
+        "recovery": "https://sourceforge.net/projects/spiceos/files/13/miatoll/Recovery/recovery.img/download",
+        "paypal": "https://www.paypal.me/ariii0129",
+        "telegram": "https://t.me/CRUECY"
+    }
+  ]
+}

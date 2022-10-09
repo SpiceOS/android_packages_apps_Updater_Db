@@ -1,6 +1,6 @@
-Build type: BETA
+Build type: Monthly
 Device: Xiaomi SD720G Devices Device name (miatoll)
 Device maintainer: ARINDAM BHATTACHARJEE (CRUECY)
 
 ===== 2022.10 =====
-- Initial Build
+- Initial A13 Build

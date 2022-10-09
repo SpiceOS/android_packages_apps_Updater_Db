@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 10 (mojito/sunny)
+Device maintainer: Anush Madathumkara (Anush02198)
+
+====  09 October, 2022  ====
+
++ Used Clang 15.0.3 for latest WCSF
++ mojito:Add missing camera blobs 
++ sm6150-common: Shift to stock Neural Networks Blobs 
++ sm6150-common:Fix some more sepolicy denials

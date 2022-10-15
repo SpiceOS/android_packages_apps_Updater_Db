@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 10 Pro (sweet/sweetin)
+Device maintainer: Aarav (Aarav_x)
+
+====  09 October, 2022  ====
++Initial android 13 Build
++ Fixed some wifi denials
++fixed some sepolicy
++nuke thermal profiles for now
++added props for smoothness and better scrolling
++Fixed DC dimming issues

@@ -9,3 +9,13 @@ Device maintainer: Anush Madathumkara (Anush02198)
 + mojito:Add missing camera blobs 
 + sm6150-common: Shift to stock Neural Networks Blobs 
 + sm6150-common:Fix some more sepolicy denials
+
+====  08 November, 2022  ====
+
++ Used latest WCSF
++ Slightly Tuned Audio
++ sm6150-common: Use RSA4096 key also for vbmeta_system
++ sm6150-common: rootdir: Set readahead_size_kb=128 to data
++ sm6150-common: rootdir: Set readahead_size_kb=128 on fstab 
++ sm6150-common: parts: Fix missing ambient display string 
++ sm6150-common:Fix some more sepolicy denials

@@ -4,3 +4,9 @@ Device maintainer: ARINDAM BHATTACHARJEE (CRUECY)
 
 ===== 2022.10 =====
 - Initial A13 Build
+
+===== 2022.11 =====
+- SpiceOS v6.2 is ready
+- Fixed Ok Google
+- Switch to LMC Camera
+- Some optimizations from the source side

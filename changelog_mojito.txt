@@ -19,3 +19,23 @@ Device maintainer: Anush Madathumkara (Anush02198)
 + sm6150-common: rootdir: Set readahead_size_kb=128 on fstab 
 + sm6150-common: parts: Fix missing ambient display string 
 + sm6150-common:Fix some more sepolicy denials
+
+==== 22 January 2023 ====
++ Used latest WCSF
++ Update Blobs from mojito qssi-user 12 SKQ1.210908.001 V13.0.11.0.SKGMIXM release-keys
++ sm6150-common: Switch to legacy sepolicy_vndr
++ sm6150-common:Remove vendor_debugfs_clk
++ sm6150-common: Kill IMS logspam
++ sm6150-common: Clean debug properties for graphics layer
++ sm6150-common: props: Use HintManager for HWUI
++ sm6150-common: Enable config_avoidGfxAccel
++ Alter Partitions to Fit bit larger gapps
++ sm6150-common: Disable blur on app launch
++ sm6150-common: Disable Async MTE on System Server
++ sm6150-common: Switch to SkiaGL
++ sm6150-common: props: Disable Skia tracing by default
++ sm6150-common: Compile HWUI for performance
++ sm6150-common: overlay: Compact cached app heaps in the background
++ sm6150-common: overlay: Allow more cached apps in the background
++ sm6150-common: overlay: Offload WM shell to another thread
+ 

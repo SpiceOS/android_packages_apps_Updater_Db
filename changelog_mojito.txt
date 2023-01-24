@@ -39,3 +39,6 @@ Device maintainer: Anush Madathumkara (Anush02198)
 + sm6150-common: overlay: Allow more cached apps in the background
 + sm6150-common: overlay: Offload WM shell to another thread
  
+ ==== 24 January 2023 ====
++ Fix Calendar Crashes.
++ Add back Monet Colour Pallete

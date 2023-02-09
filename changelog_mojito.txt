@@ -42,3 +42,8 @@ Device maintainer: Anush Madathumkara (Anush02198)
  ==== 24 January 2023 ====
 + Fix Calendar Crashes.
 + Add back Monet Colour Pallete
+
+ ==== 09 February 2023 ====
++ Used latest WCS kernel 
++ Update blobs from mojito qssi-user 12 RKQ1.210614.002 V14.0.1.0.SKGMIXM release-keys
++ Revert "sm6150-common:Add 300Mhz scaling_min_freq for CPUBigClusterMinFreq and CPULittleClusterMinFreq"

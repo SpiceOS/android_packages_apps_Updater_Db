@@ -10,3 +10,9 @@ Device maintainer: ARINDAM BHATTACHARJEE (CRUECY)
 - Fixed Ok Google
 - Switch to LMC Camera
 - Some optimizations from the source side
+
+===== 2023.14 =====
+- SpiceOS v6.4 is ready
+- Dolby Atmos
+- SElinux enforcing
+

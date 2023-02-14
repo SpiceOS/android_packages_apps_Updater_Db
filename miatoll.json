@@ -1,24 +1,24 @@
 {
-	"response": [
-		{
-			"maintainer": "ARINDAM BHATTACHARJEE (CRUECY)",
-			"oem": "Xiaomi",
-			"device": "Xiaomi SM720G Devices",
-			"filename": "SpiceOS-6.2-STABLE-20221109-203336-miatoll-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/spiceos/files/13/miatoll/SpiceOS-6.2-STABLE-20221109-203336-miatoll-OFFICIAL.zip/download",
-			"timestamp": 1668025822,
-			"md5": "451877dd1ca08502168f3c3d922c1acb",
-			"size": 1877999010,
-			"version": "6.2",
-			"buildtype": "Beta",
-			"forum": "https://forum.xda-developers.com/t/rom-official-android-13-spiceos-v6-1-beta-curtana-excalibur-gram-joyuese-miatoll.4491727/",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "https://sourceforge.net/projects/spiceos/files/13/miatoll/Recovery/recovery.img/download",
-			"paypal": "https://www.paypal.me/ariii0129",
-			"telegram": "https://t.me/CRUECY"
-		}
-	]
+  "response": [
+    {
+        "maintainer": "ARINDAM BHATTACHARJEE (CRUECY)",
+        "oem": "Xiaomi",
+        "device": "Redmi Note 9S/Redmi 9 Pro/Redmi Note 9 Pro Max/Redmi Note 10 Lite/Poco M2 Pro",
+        "filename": "SpiceOS-6.4-STABLE-20230214-061330-miatoll-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/spiceos/files/13/miatoll/SpiceOS-6.4-STABLE-20230214-061330-miatoll-OFFICIAL.zip/download",
+        "timestamp": 1676355173,
+        "md5": "65c07968b6855e21eb5a2115d609a381",
+        "size": 1792147797,
+        "version": "6.4",
+        "buildtype": "Stable",
+        "forum": "https://forum.xda-developers.com/t/rom-official-android-13-spiceos-v6-4-beta-curtana-excalibur-gram-joyuese-miatoll.4491727/",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "https://www.paypal.me/ariii0129",
+        "telegram": "https://t.me/CRUECY"
+    }
+  ]
 }

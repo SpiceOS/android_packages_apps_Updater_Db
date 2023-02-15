@@ -1,18 +1,24 @@
 {
-  "response": [
-    {
-        "maintainer": "aarav",
-        "oem": "redmi",
-        "device": "Redmi Note 10 Pro",
-        "filename": "SpiceOS-6.1-BETA-20221015-140941-sweet-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/spiceos/files/13/sweet/SpiceOS-6.1-BETA-20221015-140941-sweet-OFFICIAL.zip/download",
-        "timestamp": 1665842890,
-        "md5": "c83783abb1f1e59cd33423eb577c5f3c",
-        "size": 1070102867,
-        "version": "6.1",
-        "buildtype": "Beta",
-        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/",
-        "telegram": "https://t.me/Aarav_x"
-    }
-  ]
+	"response": [
+		{
+			"maintainer": "aarav",
+			"oem": "redmi",
+			"device": "Redmi Note 10 Pro",
+			"filename": "SpiceOS-6.4-STABLE-20230215-182446-sweet-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/spiceos/files/13/sweet/SpiceOS-6.4-STABLE-20230215-182446-sweet-OFFICIAL.zip/download",
+			"timestamp": 1676481048,
+			"md5": "4ea2c2af0f4f9f71c05d53e44e5c22bf",
+			"size": 1166443244,
+			"version": "6.4",
+			"buildtype": "Beta",
+			"forum": "",
+			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/Aarav_x"
+		}
+	]
 }

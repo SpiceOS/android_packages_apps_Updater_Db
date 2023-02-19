@@ -1,7 +1,7 @@
 {
 	"response": [
 		{
-			"maintainer": "aarav",
+			"maintainer": "JYR_RC",
 			"oem": "redmi",
 			"device": "Redmi Note 10 Pro",
 			"filename": "SpiceOS-6.4-STABLE-20230215-182446-sweet-OFFICIAL.zip",
@@ -10,7 +10,7 @@
 			"md5": "4ea2c2af0f4f9f71c05d53e44e5c22bf",
 			"size": 1166443244,
 			"version": "6.4",
-			"buildtype": "Beta",
+			"buildtype": "STABLE",
 			"forum": "",
 			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/",
 			"firmware": "",
@@ -18,7 +18,7 @@
 			"bootloader": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": "https://t.me/Aarav_x"
+			"telegram": "https://t.me/JYR_RC"
 		}
 	]
 }

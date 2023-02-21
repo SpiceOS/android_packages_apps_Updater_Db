@@ -1,7 +1,7 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi Note 10 Pro (sweet/sweetin)
-Device maintainer: Aarav (Aarav_x)
+Device maintainer: JYR_RC
 
 ====  15 October, 2022  ====
 
@@ -19,4 +19,37 @@ Disable CPU hotplug data parsing on mi_thermald
 **OTA is pushed for previous users
 **Dirty flash possible if coming from last update
 
+
+
+------15/02/2023------
+
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 10 Pro (sweet/sweetin)
+Device maintainer: JYR_RC
+
+
+Latest kernel Aghisna version R5
+
+Update blobs 13.0.17.0.
+
+Update Codecs Audio One Plus 8.
+
+Add Missing Media Codecs.
+
+Refresh Rate In Devicessetings.
+
+Refresh Rate Profiles.
+
+Attenuation CC.
+
+Thermal Profiles.
+
+Sound Dirac.
+
+Clear Speaker.
+
+OrangeFox Recovery Recommended.
+
+Clean install is recommended.
 
